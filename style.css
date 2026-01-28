@@ -1,48 +1,55 @@
 .firstimage {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .heading1 {
-    text-align: center;
+  text-align: center;
 }
 
 body {
-    background-color: #F4F4F4;
+  background-color: #f4f4f4;
+}
+#gunnapage {
+  background-color: rgb(50, 146, 50);
 }
 
 img {
-    border-radius: 25px;
-    align-self: center;
+  border-radius: 25px;
+  align-self: center;
 }
 
 #t1 {
-    text-align: center;
+  text-align: center;
 }
 
 #p1 {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 p.amadouintro {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 #shead {
-    text-align: center;
+  text-align: center;
 }
 
 .subhead {
-    text-align: center;
+  text-align: center;
 }
 
 .gunnaimge {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .lyrictext {
-    text-align: center;
+  text-align: center;
+}
+
+#songby {
+  text-align: center;
 }
